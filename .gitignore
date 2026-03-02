@@ -1,0 +1,9 @@
+# R / renv (keep renv.lock and renv/ in repo for reproducibility)
+renv/local/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
